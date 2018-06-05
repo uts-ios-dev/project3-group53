@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CC6CA2D720B38606007FAE5D /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC6CA2D620B38606007FAE5D /* images.jpg */; };
+		A84D679220C680DD00AF9A13 /* download.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A84D679120C680DC00AF9A13 /* download.jpg */; };
 		CC796D1E20A6B09C00CD47B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC796D1D20A6B09C00CD47B5 /* AppDelegate.swift */; };
 		CC796D2020A6B09C00CD47B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC796D1F20A6B09C00CD47B5 /* ViewController.swift */; };
 		CC796D2320A6B09C00CD47B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC796D2120A6B09C00CD47B5 /* Main.storyboard */; };
@@ -48,7 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CC6CA2D620B38606007FAE5D /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpg; path = ../../images.jpg; sourceTree = "<group>"; };
+		A84D679120C680DC00AF9A13 /* download.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = download.jpg; path = ../download.jpg; sourceTree = "<group>"; };
 		CC796D1A20A6B09C00CD47B5 /* AccountingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AccountingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC796D1D20A6B09C00CD47B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CC796D1F20A6B09C00CD47B5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 		CC02A94C20B123250085D02A /* Picture */ = {
 			isa = PBXGroup;
 			children = (
-				CC6CA2D620B38606007FAE5D /* images.jpg */,
+				A84D679120C680DC00AF9A13 /* download.jpg */,
 				CC796D5920A6C2C400CD47B5 /* add.png */,
 				CC796D5A20A6C2C400CD47B5 /* business-person-silhouette-wearing-tie.png */,
 				CC796D5620A6C2C300CD47B5 /* line-chart.png */,
@@ -285,9 +285,9 @@
 				CC796D5E20A6C2C400CD47B5 /* notepad.png in Resources */,
 				D915CC0420B2CB180046172D /* VVPAIRTNYwbbZut.jpg in Resources */,
 				CC796D5D20A6C2C400CD47B5 /* settings.png in Resources */,
+				A84D679220C680DD00AF9A13 /* download.jpg in Resources */,
 				CC796D2820A6B09D00CD47B5 /* LaunchScreen.storyboard in Resources */,
 				CC796D6020A6C2C400CD47B5 /* business-person-silhouette-wearing-tie.png in Resources */,
-				CC6CA2D720B38606007FAE5D /* images.jpg in Resources */,
 				CC796D5F20A6C2C400CD47B5 /* add.png in Resources */,
 				CC796D5C20A6C2C400CD47B5 /* line-chart.png in Resources */,
 				CC796D2520A6B09D00CD47B5 /* Assets.xcassets in Resources */,

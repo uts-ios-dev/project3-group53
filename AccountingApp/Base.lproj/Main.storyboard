@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ytA-Wu-KT6">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ytA-Wu-KT6">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -150,8 +150,8 @@
                                     <action selector="refreshButton:" destination="SLX-fx-r3F" eventType="touchDown" id="XH9-wT-Eg7"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="images.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="GvB-VY-hhS">
-                                <rect key="frame" x="75" y="59" width="227" height="138"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="download.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="3zv-XY-6LL">
+                                <rect key="frame" x="67" y="71" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -162,7 +162,6 @@
                     <connections>
                         <outlet property="dateField" destination="Hvi-ck-6Su" id="zBN-CI-MPC"/>
                         <outlet property="expenseLabel" destination="Mch-iD-F18" id="TFl-mJ-MgO"/>
-                        <outlet property="imagePicked" destination="GvB-VY-hhS" id="epG-rs-CwX"/>
                         <outlet property="incomeLabel" destination="Fsy-II-uvo" id="Z8S-8S-1Va"/>
                         <outlet property="profitLabel" destination="f1j-vj-RAZ" id="4JU-AA-adA"/>
                     </connections>
@@ -297,6 +296,6 @@
     </scenes>
     <resources>
         <image name="VVPAIRTNYwbbZut.jpg" width="1200" height="702"/>
-        <image name="images.jpg" width="275" height="183"/>
+        <image name="download.jpg" width="299" height="169"/>
     </resources>
 </document>
